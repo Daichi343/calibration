@@ -3,7 +3,7 @@ import numpy as np
 import glob
 
 # チェスボードの交点数
-CHECKERBOARD = (9, 6)
+CHECKERBOARD = (12, 7)
 
 # 3Dポイントと2Dポイントを格納するリスト
 objpoints = []
